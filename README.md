@@ -4,7 +4,7 @@ We are the Non-Profit Working Group on AI (Singapore), a group comprising member
 
 We are collectively interested in the impact of that AI will have on society in Singapore and beyond, and have organized to foster greater engagement with AI issues in the non-profit sector and in civil society.
 
-## Response to the PDPC's "A Proposed Model AI Governance Framework"
+## Response to the PDPC's "Model AI Governance Framework"
 
 In response to the publication of ["A Proposed Model AI Governance Framework"](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/A-Proposed-Model-AI-Governance-Framework-January-2019.pdf) by Singapore's [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg) in January 2019 for public consultation, we have prepared a detailed paragraph-by-paragraph response. In the interest of public transparency and accountability, we are making the response available here: [**Response to the Model AI Framework**](npwg_response_to_model_ai_framework.pdf).
 
