@@ -4,9 +4,15 @@ We are the Non-Profit Working Group on AI (Singapore), a group comprising member
 
 We are collectively interested in the impact of that AI will have on society in Singapore and beyond, and have organized to foster greater engagement with AI issues in the non-profit sector and in civil society.
 
-## Response to the PDPC's Model AI Governance Framework
+## Background: the PDPC's Model AI Governance Framework
 
-In response to the publication of ["A Proposed Model AI Governance Framework"](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/A-Proposed-Model-AI-Governance-Framework-January-2019.pdf) by Singapore's [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg) in January 2019 for public consultation, we have prepared a detailed paragraph-by-paragraph response. In the interest of public transparency and accountability, we are making the response available here: [**Response to the Model AI Framework**](npwg_response_to_model_ai_framework.pdf).
+AI holds great promise to advance technology, increase efficiency and introduce revolutionary tools into our lives. However, AI and other data analytics systems have often been implemented without proper safeguards, and have exacerbated certain social ills. In recognition of the potential risks, the [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg), a government agency, published ["A Proposed Model AI Governance Framework"](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/A-Proposed-Model-AI-Governance-Framework-January-2019.pdf) in January 2019. The model framework introduced some safeguards for the development and deployment of AI, and encouraged companies to adopt those safeguards in their internal governance. The PDPC called on the public to give feedback on the model framework, to help them improve future versions of it.
+
+## Response to the Model Framework
+
+Answering the call for feedback, we have prepared a detailed paragraph-by-paragraph response to the model framework. In the interest of public transparency and accountability, we are making the response available here: [**Response to the Model AI Framework**](npwg_response_to_model_ai_framework.pdf).
+
+We hope that our response and the ideas in it can spark a conversation about AI principles and practices between civil society, academics, researchers, industry, and government.
 
 ### Major Themes
 
