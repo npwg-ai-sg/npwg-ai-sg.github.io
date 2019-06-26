@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "Non-Profit Working Group on AI (SG)"
+image: preview.png
 excerpt: "We are the Non-Profit Working Group on AI (Singapore), a group comprising members of DataKind SG, Effective Altruism SG, AI researchers, data scientists, academics and more."
 ---
 
