@@ -1,4 +1,10 @@
-# Non-Profit Working Group on AI (Singapore)
+---
+layout: default
+title:  "Non-Profit Working Group on AI (SG)"
+excerpt: "We are the Non-Profit Working Group on AI (Singapore), a group comprising members of DataKind SG, Effective Altruism SG, AI researchers, data scientists, academics and more."
+---
+
+# About Us
 
 We are the Non-Profit Working Group on AI (Singapore), a group comprising members of [DataKind SG](https://www.datakind.org/chapters/datakind-sg), [Effective Altruism SG](http://effectivealtruism.sg), AI researchers, data scientists, academics and more.
 
