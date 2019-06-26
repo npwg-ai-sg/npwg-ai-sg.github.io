@@ -1,4 +1,4 @@
-# Non-Profit Working Group on AI (Singapore)
+# About Us
 
 We are the Non-Profit Working Group on AI (Singapore), a group comprising members of [DataKind SG](https://www.datakind.org/chapters/datakind-sg), [Effective Altruism SG](http://effectivealtruism.sg), AI researchers, data scientists, academics and more.
 
@@ -26,7 +26,7 @@ Major themes from our recommendations are listed as follows:
 - AI ethics requires consultation with diverse voices
 - The need for critical reflection beyond procedures and frameworks
 
-### Areas for Further Research and governance
+### Areas for Further Research and Governance
 
 In addition, we have suggested the following additional areas for research and governance:
 
